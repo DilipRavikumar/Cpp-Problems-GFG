@@ -43,7 +43,7 @@ int main() {
         for (int i : res) {
             cout << i << " ";
         }
-        cout << endl;
+        cout << endl << "~" << endl;
     }
     return 0;
 }
